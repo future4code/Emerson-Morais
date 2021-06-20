@@ -70,9 +70,6 @@ console.log("O segundo numero é divisível pelo primeiro?", (numero2 / numero1)
 // Resposta: false para todas, porém depende do número inserido.
 
 
-/*warm up
-const instrutoras = ["Amanda", "Lais"]
-instrutoras.push("Chijo")
-console.log(instrutoras)*/
+
 
 
