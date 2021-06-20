@@ -72,3 +72,4 @@ console.log("O segundo numero é divisível pelo primeiro?", (numero2 / numero1)
 
 
 
+
