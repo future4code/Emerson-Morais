@@ -1,0 +1,52 @@
+h1 {
+    color:#e2cccc;
+    display: block;
+    margin-top: 24px;
+    margin-left: 350px
+}
+
+h3 {
+    margin-left: 350px
+}
+
+div {
+    background-color: gray;
+    margin-left: 200px;
+    margin-right: 200px
+}
+
+p {
+    margin-left: 380px;
+    color:aqua
+}
+
+img {
+    margin-left: 300px
+}
+
+.pagina-inicial {
+    margin-left: 500px;
+    margin-right: 560px
+}
+
+.teste1 {
+    margin-left: 630px;
+}
+
+.controle-preço {
+
+    color: green;
+
+}
+
+body {
+
+    background-image: url(img\livros-loja.jpg);
+    background-repeat: repeat-x;
+    background-color: black;
+   }
+
+.imagem-fundo {
+    margin-left: 600px;
+    margin-bottom: auto;
+}
